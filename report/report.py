@@ -70,7 +70,7 @@ account = f"""{k}
                         .-.=-        -=.-.                       
 
 
-	{lrd}[{lgn}+{lrd}] {gn}Channel : {lgn}@Esfelurm	
+	{lrd}[{lgn}+{lrd}] {gn}owner : {lgn}@hehe_stalker
 			"""	 
 class TelegramReporter:
     def __init__(self):
@@ -124,7 +124,7 @@ class TelegramReporter:
     ))
                     print (f"\n{lrd}[{lgn}+{lrd}] {gn}A Violence report has been sent : {i}")                                        
             elif self.method == "4":
-            	report_message = 'This user is suspected of child abuse'
+            	report_message = 'The user is sharing explicit and child-pornographic pornographic content which is against Telegram's community guidelines and terms of service. Please take immediate action and terminate this Id as soon as possible'
             	for i in range(0,int(self.number)):
                     client(functions.account.ReportPeerRequest(
         peer=scammer_input_peer,
