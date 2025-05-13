@@ -48,7 +48,7 @@ account = f"""{k}
 |_| \_\ \___|| .__/  \___/ |_|    \__| \___||_|   
              |_|	
 
-	{lrd}[{lgn}+{lrd}] {gn}Channel : {lgn}@Esfelurm	
+	{lrd}[{lgn}+{lrd}] {gn}Channel : {lgn}@lll_DRX_NETWORK_lll
 			"""	 
 			
 class TelegramReporter:
